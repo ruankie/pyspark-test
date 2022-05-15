@@ -7,3 +7,9 @@ This is a template for setting up containerised development environments. This e
 3. Edit `.devcontainer/devcontainer.json` to specify how VS Code will interact with the container
 4. Edit `requiremets.txt` to specify all labraries and specific versions used in your development environment
 5. Use the `Remote - Containers` extensoin in VS Code and run the `Open Folder in Container...` command to start developing inside the container
+
+# Resources
+Based on these resources:
+* https://www.kdnuggets.com/2020/07/apache-spark-cluster-docker.html
+* https://computingforgeeks.com/how-to-install-apache-spark-on-ubuntu-debian/
+* https://spark.apache.org/docs/latest/api/python/getting_started/install.html
